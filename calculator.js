@@ -6,7 +6,8 @@ function updateCalculation(value) {
 
     if (value === ' = ') {
         try {
-            calculation = eval(calculation);
+            calculation = eval(calculation.replace(/\b0+(\d+)/g, '$1'));
+
             if (calculation === undefined) display.innerText = 0;
             else display.innerText = calculation;
             resultShown = true;
