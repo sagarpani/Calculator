@@ -110,8 +110,8 @@ button:active {
     box-shadow: 0 0 15px rgba(255, 0, 0, 0.6);
 }
 
-.equals:hover {
+.clear:hover {
     background: rgba(255, 0, 0, 0.5);
     box-shadow: 0 0 30px red;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
