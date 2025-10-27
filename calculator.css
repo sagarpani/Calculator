@@ -103,7 +103,7 @@ button:active {
 
 /* equals styling */
 
-.equals {
+.clear {
     margin-top: 20px;
     grid-column: span 4;
     background: rgba(255, 0, 0, 0.4);
