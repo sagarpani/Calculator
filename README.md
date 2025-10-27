@@ -26,7 +26,7 @@ Setup and Usage
 
 ### Clone this repository
 
-git clone https://github.com/sagarpani/formulator.git
+git clone: https://github.com/sagarpani/Calculator.git
 
 
 ### Navigate to the project directory
